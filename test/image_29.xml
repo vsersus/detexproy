@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Downloads</folder>
+	<filename>image_29.jpg</filename>
+	<path>C:\Users\vanessa.salinas\Downloads\image_29.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>620</width>
+		<height>349</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>UNKNOWN</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>95</xmin>
+			<ymin>156</ymin>
+			<xmax>413</xmax>
+			<ymax>349</ymax>
+		</bndbox>
+	</object>
+</annotation>
